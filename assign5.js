@@ -1,14 +1,14 @@
-let firstExp = 5 + 7;
-console.log(firstExp);
+let first = 5 + 7;
+console.log(first);
 
-let secondExp = 67 - 8;
-console.log(secondExp);
+let second = 67 - 8;
+console.log(second);
 
-let thirdExp = 67 * 8;
-console.log(thirdExp);
+let third = 67 * 8;
+console.log(third);
 
-let forthExp = 67 / 8;
-console.log(forthExp);
+let forth = 67 / 8;
+console.log(forth);
 
-let fifthExp = 67 % 8;
-console.log(fifthExp);
+let fifth = 67 % 8;
+console.log(fifth);
